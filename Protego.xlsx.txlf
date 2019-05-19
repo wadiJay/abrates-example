@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:gs4tr="http://www.gs4tr.org/schema/xliff-ext"><file gs4tr:filter-configuration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt; &lt;configuration&gt;&lt;number_extraction&gt;true&lt;/number_extraction&gt;&lt;number_extraction_on_text_cells&gt;true&lt;/number_extraction_on_text_cells&gt;&lt;translate_sheet_names&gt;true&lt;/translate_sheet_names&gt;&lt;translate_cell_comments&gt;false&lt;/translate_cell_comments&gt;&lt;translate_formula_cells&gt;false&lt;/translate_formula_cells&gt;&lt;translate_hidden_cells&gt;false&lt;/translate_hidden_cells&gt;&lt;translate_hidden_sheets&gt;false&lt;/translate_hidden_sheets&gt;&lt;translate_data_validation_comments&gt;true&lt;/translate_data_validation_comments&gt;&lt;translate_drop_down_lists&gt;true&lt;/translate_drop_down_lists&gt;&lt;extract_cell_order_by_column&gt;true&lt;/extract_cell_order_by_column&gt;&lt;extract_soft_return_strategy&gt;break&lt;/extract_soft_return_strategy&gt;&lt;extract_shapes_content&gt;true&lt;/extract_shapes_content&gt;&lt;extract_charts_content&gt;true&lt;/extract_charts_content&gt;&lt;numberRegexp&gt;^\s*+[-+.]?+\d++([-.,()/+* ]++\d++)*+\s*+$&lt;/numberRegexp&gt;&lt;/configuration&gt;" original="C:\Users\Wadi\WordfastPro\projects\Prueba web\source\Protego.xlsx" gs4tr:md5checksum="eb2a4c64b02f4d75d29b1bdbc3ead7c9" gs4tr:wordcount="142" datatype="x-ms-excel" source-language="es" gs4tr:filters-version="14" target-language="en" gs4tr:translated-segment-count="6" gs4tr:total-segment-count="47" gs4tr:simplifier="fontformat"><body><group id="page-1" restype="x-page" >
+<group id="paragraph-1-1" restype="x-paragraph" extype="sheetname" gs4tr:maxlen="31" gs4tr:segmented="true" >
+<trans-unit id="1-1-1" gs4tr:wordcount="1" gs4tr:editStatus="modified" >
+<source>EN</source>
+<target gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203502Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot; set=&quot;4&quot;/&gt;">ES</target>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-2" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-2-1" gs4tr:wordcount="1" gs4tr:editStatus="modified" >
+<source><bx ctype="bold" id="1" rid="1"/>Texto<ex id="2" rid="1"/></source>
+<target gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203505Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot; set=&quot;3&quot;/&gt;"><bx ctype="bold" id="1" rid="1"/>Text<ex id="2" rid="1"/></target>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-3" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-3-1" gs4tr:wordcount="1" gs4tr:editStatus="modified" >
+<source>Loading</source>
+<target gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203507Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot; set=&quot;2&quot;/&gt;">Cargando</target>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-4" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-4-1" gs4tr:wordcount="1" gs4tr:editStatus="modified" >
+<source>Protect</source>
+<target gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203509Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot; set=&quot;E&quot;/&gt;">Proteger</target>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-5" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-5-1" gs4tr:wordcount="1" gs4tr:editStatus="modified" >
+<source>Browse</source>
+<target gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203512Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot; set=&quot;0&quot;/&gt;">Buscar</target>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-6" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-6-1" gs4tr:wordcount="3" gs4tr:editStatus="modified" >
+<source>Overwrite Existing File</source>
+<target gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203516Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot; set=&quot;0&quot;/&gt;">Sobreescribir archivo existente</target>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-7" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-7-1" gs4tr:wordcount="5" >
+<source>Save to a New File</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-8" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-8-1" gs4tr:wordcount="2" >
+<source>Save As</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-9" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-9-1" gs4tr:wordcount="3" >
+<source>Unlock a Document</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-10" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-10-1" gs4tr:wordcount="2" >
+<source>File protected</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-11" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-11-1" gs4tr:wordcount="5" >
+<source>Could not protect your file</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-12" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-12-1" gs4tr:wordcount="7" >
+<source>The file is open in another program</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-13" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-13-1" gs4tr:wordcount="6" >
+<source>Access to the file is denied</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-14" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-14-1" gs4tr:wordcount="5" >
+<source>An unexpected error has ocurred</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-1-15" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="1-15-1" gs4tr:wordcount="7" >
+<source>Please specify a valid password to save</source>
+
+</trans-unit>
+</group>
+</group><group id="page-2" restype="x-page" >
+<group id="paragraph-2-1" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-1-1" gs4tr:wordcount="5" >
+<source>Your password has been saved</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-2" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-2-1" gs4tr:wordcount="1" >
+<source>Use</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-3" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-3-1" gs4tr:wordcount="2" >
+<source>Generate again</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-4" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-4-1" gs4tr:wordcount="2" >
+<source>Password Options</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-5" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-5-1" gs4tr:wordcount="6" >
+<source>Please specify a name or description</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-6" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-6-1" gs4tr:wordcount="10" >
+<source>Please specify a name of no more than 50 chars.</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-7" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-7-1" gs4tr:wordcount="4" >
+<source>Please type another name.</source>
+<gs4tr:ws xmlns="http://www.gs4tr.org/schema/xliff-ext" pos="after"> </gs4tr:ws>
+
+</trans-unit>
+<trans-unit id="2-7-2" gs4tr:wordcount="4" >
+<source>This one already exists</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-8" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-8-1" gs4tr:wordcount="4" >
+<source>Please specify a password</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-9" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-9-1" gs4tr:wordcount="10" >
+<source>Please specify a password of no more than 32 chars.</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-10" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-10-1" gs4tr:wordcount="3" >
+<source>Mark as favorite</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-11" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-11-1" gs4tr:wordcount="1" >
+<source>Save</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-12" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-12-1" gs4tr:wordcount="1" >
+<source>Name</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-13" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-13-1" gs4tr:wordcount="1" >
+<source>Password</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-14" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-14-1" gs4tr:wordcount="1" >
+<source>Favorite</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-2-15" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="2-15-1" gs4tr:wordcount="5" >
+<source>Your password has been saved</source>
+
+</trans-unit>
+</group>
+</group><group id="page-3" restype="x-page" >
+<group id="paragraph-3-1" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-1-1" gs4tr:wordcount="4" >
+<source>Please specify a password</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-2" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-2-1" gs4tr:wordcount="1" >
+<source>Unlock</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-3" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-3-1" gs4tr:wordcount="3" >
+<source>Overwrite Existing File</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-4" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-4-1" gs4tr:wordcount="5" >
+<source>Save to a New File</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-5" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-5-1" gs4tr:wordcount="2" >
+<source>Save As</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-6" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-6-1" gs4tr:wordcount="3" >
+<source>Protect a Document</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-7" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-7-1" gs4tr:wordcount="2" >
+<source>File unlocked</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-8" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-8-1" gs4tr:wordcount="1" >
+<source>Strength</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-9" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-9-1" gs4tr:wordcount="1" >
+<source>Weak</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-10" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-10-1" gs4tr:wordcount="1" >
+<source>Medium</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-11" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-11-1" gs4tr:wordcount="1" >
+<source>Good</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-12" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-12-1" gs4tr:wordcount="1" >
+<source>Strong</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-13" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-13-1" gs4tr:wordcount="4" >
+<source>Passwords do not match</source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-14" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-14-1" gs4tr:wordcount="1" >
+<source><bx ctype="bold" id="1" rid="1"/>Traducción<ex id="2" rid="1"/></source>
+
+</trans-unit>
+</group>
+<group id="paragraph-3-15" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="3-15-1" gs4tr:wordcount="1" >
+<source><bx ctype="bold" id="1" rid="1"/>Comentarios<ex id="2" rid="1"/></source>
+
+</trans-unit>
+</group>
+</group><group id="page-4" restype="x-page" >
+<group id="paragraph-4-1" restype="x-paragraph" gs4tr:segmented="true" >
+<trans-unit id="4-1-1" gs4tr:wordcount="1" >
+<source><bx ctype="bold" id="1" rid="1"/>Observaciones<ex id="2" rid="1"/></source>
+
+</trans-unit>
+</group>
+</group></body></file></xliff>
