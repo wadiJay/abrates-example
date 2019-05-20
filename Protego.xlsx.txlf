@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:gs4tr="http://www.gs4tr.org/schema/xliff-ext"><file gs4tr:filter-configuration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt; &lt;configuration&gt;&lt;number_extraction&gt;true&lt;/number_extraction&gt;&lt;number_extraction_on_text_cells&gt;true&lt;/number_extraction_on_text_cells&gt;&lt;translate_sheet_names&gt;true&lt;/translate_sheet_names&gt;&lt;translate_cell_comments&gt;false&lt;/translate_cell_comments&gt;&lt;translate_formula_cells&gt;false&lt;/translate_formula_cells&gt;&lt;translate_hidden_cells&gt;false&lt;/translate_hidden_cells&gt;&lt;translate_hidden_sheets&gt;false&lt;/translate_hidden_sheets&gt;&lt;translate_data_validation_comments&gt;true&lt;/translate_data_validation_comments&gt;&lt;translate_drop_down_lists&gt;true&lt;/translate_drop_down_lists&gt;&lt;extract_cell_order_by_column&gt;true&lt;/extract_cell_order_by_column&gt;&lt;extract_soft_return_strategy&gt;break&lt;/extract_soft_return_strategy&gt;&lt;extract_shapes_content&gt;true&lt;/extract_shapes_content&gt;&lt;extract_charts_content&gt;true&lt;/extract_charts_content&gt;&lt;numberRegexp&gt;^\s*+[-+.]?+\d++([-.,()/+* ]++\d++)*+\s*+$&lt;/numberRegexp&gt;&lt;/configuration&gt;" original="C:\Users\Wadi\WordfastPro\projects\Prueba web\source\Protego.xlsx" gs4tr:md5checksum="eb2a4c64b02f4d75d29b1bdbc3ead7c9" gs4tr:wordcount="142" datatype="x-ms-excel" source-language="es" gs4tr:filters-version="14" target-language="en" gs4tr:translated-segment-count="6" gs4tr:total-segment-count="47" gs4tr:simplifier="fontformat"><body><group id="page-1" restype="x-page" >
+<?xml version="1.0" encoding="UTF-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:gs4tr="http://www.gs4tr.org/schema/xliff-ext"><file gs4tr:filter-configuration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt; &lt;configuration&gt;&lt;number_extraction&gt;true&lt;/number_extraction&gt;&lt;number_extraction_on_text_cells&gt;true&lt;/number_extraction_on_text_cells&gt;&lt;translate_sheet_names&gt;true&lt;/translate_sheet_names&gt;&lt;translate_cell_comments&gt;false&lt;/translate_cell_comments&gt;&lt;translate_formula_cells&gt;false&lt;/translate_formula_cells&gt;&lt;translate_hidden_cells&gt;false&lt;/translate_hidden_cells&gt;&lt;translate_hidden_sheets&gt;false&lt;/translate_hidden_sheets&gt;&lt;translate_data_validation_comments&gt;true&lt;/translate_data_validation_comments&gt;&lt;translate_drop_down_lists&gt;true&lt;/translate_drop_down_lists&gt;&lt;extract_cell_order_by_column&gt;true&lt;/extract_cell_order_by_column&gt;&lt;extract_soft_return_strategy&gt;break&lt;/extract_soft_return_strategy&gt;&lt;extract_shapes_content&gt;true&lt;/extract_shapes_content&gt;&lt;extract_charts_content&gt;true&lt;/extract_charts_content&gt;&lt;numberRegexp&gt;^\s*+[-+.]?+\d++([-.,()/+* ]++\d++)*+\s*+$&lt;/numberRegexp&gt;&lt;/configuration&gt;" original="C:\Users\Wadi\WordfastPro\projects\Prueba web\source\Protego.xlsx" gs4tr:md5checksum="eb2a4c64b02f4d75d29b1bdbc3ead7c9" gs4tr:wordcount="142" datatype="x-ms-excel" source-language="es" gs4tr:filters-version="14" target-language="en" gs4tr:translated-segment-count="8" gs4tr:total-segment-count="47" gs4tr:simplifier="fontformat"><body><group id="page-1" restype="x-page" >
 <group id="paragraph-1-1" restype="x-paragraph" extype="sheetname" gs4tr:maxlen="31" gs4tr:segmented="true" >
 <trans-unit id="1-1-1" gs4tr:wordcount="1" gs4tr:editStatus="modified" >
 <source>EN</source>
@@ -16,7 +16,10 @@
 <group id="paragraph-1-3" restype="x-paragraph" gs4tr:segmented="true" >
 <trans-unit id="1-3-1" gs4tr:wordcount="1" gs4tr:editStatus="modified" >
 <source>Loading</source>
-<target gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203507Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot; set=&quot;2&quot;/&gt;">Cargando</target>
+<target gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203701Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot; set=&quot;1D&quot;/&gt;">Cargando…</target>
+<alt-trans alttranstype="previous-version" gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203507Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot; set=&quot;2&quot;/&gt;" gs4tr:editStatus="modified" gs4tr:score="-1" >
+<target>Cargando</target>
+</alt-trans>
 
 </trans-unit>
 </group>
@@ -42,14 +45,19 @@
 </trans-unit>
 </group>
 <group id="paragraph-1-7" restype="x-paragraph" gs4tr:segmented="true" >
-<trans-unit id="1-7-1" gs4tr:wordcount="5" >
+<trans-unit id="1-7-1" gs4tr:wordcount="5" gs4tr:editStatus="modified" >
 <source>Save to a New File</source>
+<target gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203648Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot; set=&quot;38&quot;/&gt;">Guardar en un archivo nuevo</target>
 
 </trans-unit>
 </group>
 <group id="paragraph-1-8" restype="x-paragraph" gs4tr:segmented="true" >
-<trans-unit id="1-8-1" gs4tr:wordcount="2" >
+<trans-unit id="1-8-1" gs4tr:wordcount="2" gs4tr:editStatus="modified" >
 <source>Save As</source>
+<target state-qualifier="x-no-match" gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203653Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot; set=&quot;20&quot;/&gt;"/>
+<alt-trans alttranstype="previous-version" gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203648Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot; set=&quot;0&quot;/&gt;" gs4tr:editStatus="leveraged" gs4tr:score="-1" gs4tr:state-qualifier="x-no-match" >
+<target/>
+</alt-trans>
 
 </trans-unit>
 </group>
@@ -211,8 +219,9 @@
 </trans-unit>
 </group>
 <group id="paragraph-3-4" restype="x-paragraph" gs4tr:segmented="true" >
-<trans-unit id="3-4-1" gs4tr:wordcount="5" >
+<trans-unit id="3-4-1" gs4tr:wordcount="5" gs4tr:editStatus="autopropagated" >
 <source>Save to a New File</source>
+<target gs4tr:seginfo="&lt;root username=&quot;Wadi&quot; timestamp=&quot;20190519T203648Z&quot; tool-name=&quot;WFP&quot; tool-version=&quot;5.6.0&quot;/&gt;">Guardar en un archivo nuevo</target>
 
 </trans-unit>
 </group>
