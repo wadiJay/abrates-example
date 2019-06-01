@@ -1,2 +1,2 @@
 # ABRATES GitHub repo
-We'll store our files in this repo as **backup copies and to work remotely**.
+So this is our file where changes will be tracked (hopefully).
